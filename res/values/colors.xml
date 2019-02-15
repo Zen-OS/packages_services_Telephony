@@ -57,4 +57,7 @@
 
     <!-- Launcher icon background color. -->
     <color name="ic_background">#ff2a56c6</color>
+
+    <color name="emergency_shortcut_button_background_color">#40FFFFFF</color>
+    <color name="emergency_shortcut_confirm_button_background_color">#E25142</color>
 </resources>
